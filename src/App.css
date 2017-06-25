@@ -1,0 +1,13 @@
+.App {
+    position: relative;
+    width: 100vw;
+}
+.header-flex-wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    top: -80px;
+    left: -80px;
+    width: 103vw;
+}

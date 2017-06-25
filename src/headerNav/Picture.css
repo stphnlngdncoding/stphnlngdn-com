@@ -1,0 +1,16 @@
+.header-picture-container {
+    transform: scale(.5, .5);
+}
+
+.header-wrapper {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 400px;
+}
+
+.header-picture {
+    position: absolute;
+    right: -291px;
+}
